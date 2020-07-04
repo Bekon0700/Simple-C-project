@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1593873067 source:h:\cse 100\8-number-puzzle\main.c
+	"puzzle.h"
+	"Hall_of_fame.h"
+	"add_to_fame.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1593856780 h:\cse 100\8-number-puzzle\puzzle.h
+
+1593876271 source:h:\cse 100\8-number-puzzle\puzzle.c
+	"puzzle.h"
+	"add_to_fame.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1593863732 h:\cse 100\8-number-puzzle\hall_of_fame.h
+
+1593864508 source:h:\cse 100\8-number-puzzle\fame.c
+	"Hall_of_fame.h"
+	<stdio.h>
+	<stdlib.h>
+
+1593870236 h:\cse 100\8-number-puzzle\add_to_fame.h
+
+1593874335 source:h:\cse 100\8-number-puzzle\add_to_fame.c
+	"add_to_fame.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
